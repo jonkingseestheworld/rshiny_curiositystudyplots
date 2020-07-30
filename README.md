@@ -1,4 +1,6 @@
 # rshiny_curiositystudyplots
-A mini project for <a href="https://johnnykl-rshiny.shinyapps.io/curidecisionplot-app/"> data visualisation to facilitate understanding of the results from a previous research study that looks at curiosity-driven/motivated risky decisions</a>, using RShiny.
+A <a href="https://johnnykl-rshiny.shinyapps.io/curidecisionplot-app/">mini project for  data visualisation</a> to facilitate understanding of the results from <a href="https://www.nature.com/articles/s41562-020-0848-3">a previous research study</a> that looks at curiosity-driven/motivated risky decisions, using RShiny.
+
+<p> <img src="rshiny-curidecisionplot_snap.png" width="550"> </p>
 
 For the main data repository of this study, visit the corresponding OSF project: https://osf.io/mafe3/; or for better explanation of the codes for these plots, check the Markdown files in this <a href="https://github.com/jonkingseestheworld/curiosity_fmri_study"> repo </a>. 
